@@ -1,6 +1,6 @@
 n=list(input())
-k=list(reversed(n))
-if(n==k):
+f=list(reversed(n))
+if(n==f):
 	print('yes')
 else:
 	print('no')
